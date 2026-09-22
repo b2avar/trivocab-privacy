@@ -18,7 +18,7 @@
 <p>Bu metin, Trivocab mobil uygulamasını (“Uygulama”) kullanırken kişisel verilerinizin nasıl işlendiğini, 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) m. 10 kapsamındaki aydınlatma yükümlülüğü çerçevesinde açıklar.</p>
 
 <div class="card">
-  <strong>Kısaca:</strong> Hesap açmanız gerekmez; adınızı, e-postanızı, telefon numaranızı ya da konumunuzu istemeyiz. Öğrenme ilerlemeniz cihazınızda şifreli durur. Uygulama reklam göstermez ve verilerinizi satmaz. Hataları düzeltmek ve uygulamayı geliştirmek için Unity’nin analitik ve hata raporlama hizmetini kullanırız; bunu <em>Ayarlar › Kullanım verisi paylaş</em> anahtarından istediğiniz an kapatabilirsiniz.
+  <strong>Kısaca:</strong> Hesap açmanız gerekmez; adınızı, e-postanızı, telefon numaranızı ya da konumunuzu istemeyiz. Öğrenme ilerlemeniz cihazınızda şifreli durur. Uygulama reklam göstermez ve verilerinizi satmaz. Hataları düzeltmek ve uygulamayı geliştirmek için, <strong>yalnızca izin verirseniz</strong> Unity’nin analitik ve hata raporlama hizmetini kullanırız. İzni ilk açılışta sorarız; tercihinizi <em>Ayarlar › Kullanım verisi paylaş</em> anahtarından istediğiniz an değiştirebilirsiniz.
 </div>
 
 <h2>1. Veri sorumlusu</h2>
@@ -44,13 +44,13 @@
     <td>Kullanım verileri: tamamlanan bölüm/tekrar, puan, hata sayısı, alınan rozet, seviye testi sonucu, oturum başlangıç/bitişi</td>
     <td>Unity Technologies sunucuları</td>
     <td>Uygulamanın nasıl kullanıldığını anlamak, dersleri ve zorluk seviyesini iyileştirmek</td>
-    <td>Meşru menfaat (m. 5/2-f). Ayarlar’dan kapatılabilir.</td>
+    <td>Açık rıza (m. 5/1). İlk açılışta sorulur; izin vermezseniz toplanmaz, Ayarlar’dan geri alınabilir.</td>
   </tr>
   <tr>
     <td>Teknik veriler ve hata raporları: IP adresi, kuruluma özel rastgele kimlik, iOS’ta satıcıya özel cihaz kimliği (IDFV), cihaz modeli, işletim sistemi ve dil, uygulama sürümü, çökme/hata kayıtları</td>
     <td>Unity Technologies sunucuları</td>
     <td>Çökmeleri ve hataları tespit edip düzeltmek, hizmet güvenliği</td>
-    <td>Meşru menfaat (m. 5/2-f)</td>
+    <td>Açık rıza (m. 5/1), yukarıdakiyle aynı izin</td>
   </tr>
 </table>
 <p>Bu veriler adınızla, e-postanızla ya da başka bir kimlik bilgisiyle eşleştirilmez; reklam veya kişiler arası takip (tracking) amacıyla kullanılmaz, üçüncü kişilere satılmaz.</p>
@@ -79,8 +79,8 @@
 <h2>6. Veri güvenliği</h2>
 <p>İlerleme dosyası AES-256 ile şifrelenir ve imzalanır; şifre anahtarı Uygulama paketinde değil, her kurulumda ayrı üretilip iOS Keychain’de / Android’in uygulamaya özel korumalı alanında saklanır. Unity ile iletişim şifreli bağlantı (HTTPS) üzerinden yapılır.</p>
 
-<h2>7. Kullanım verisini kapatma ve silme</h2>
-<p><em>Ayarlar › Kullanım verisi paylaş</em> anahtarını kapattığınızda yeni veri gönderimi durur ve daha önce Unity’ye gönderilmiş kullanım verilerinizin silinmesi talebi otomatik olarak iletilir. Dilerseniz aşağıdaki adrese yazarak da silme talebinde bulunabilirsiniz.</p>
+<h2>7. İzin, kapatma ve silme</h2>
+<p>Uygulama ilk açıldığında kullanım verisi ve hata raporu için izninizi sorar. İzin vermezseniz bu veriler hiç gönderilmez; Uygulama’nın tüm özellikleri yine çalışır. <em>Ayarlar › Kullanım verisi paylaş</em> anahtarını kapattığınızda yeni veri gönderimi durur ve daha önce Unity’ye gönderilmiş kullanım verilerinizin silinmesi talebi otomatik olarak iletilir. Dilerseniz aşağıdaki adrese yazarak da silme talebinde bulunabilirsiniz.</p>
 
 <h2>8. KVKK m. 11 kapsamındaki haklarınız</h2>
 <p>Veri sorumlusuna başvurarak; kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme, işlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme, yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme, eksik veya yanlış işlenmişse düzeltilmesini isteme, KVKK m. 7’deki şartlar çerçevesinde silinmesini veya yok edilmesini isteme, bu işlemlerin aktarıldığı üçüncü kişilere bildirilmesini isteme, münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonucun ortaya çıkmasına itiraz etme ve kanuna aykırı işleme nedeniyle zarara uğramanız hâlinde zararın giderilmesini talep etme haklarına sahipsiniz.</p>
