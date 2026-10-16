@@ -1,8 +1,8 @@
 {
-  "ios": "1.0.5",
-  "android": "1.0.5",
-  "messageTr": "Yeni hikâye ekranı, sesli takip ve düzeltilmiş çeviriler",
-  "messageEn": "New story screen, read-along and fixed translations",
+  "ios": "1.0.6",
+  "android": "1.0.6",
+  "messageTr": "Çalışma tarzını seç, akıllı yazma ipucu ve yeni rozet alanı",
+  "messageEn": "Choose your study style, smarter writing hints and badges",
   "storeIos": "https://apps.apple.com/app/id6814996367",
   "storeAndroid": "https://play.google.com/store/apps/details?id=com.b2avargames.trivocab"
 }
