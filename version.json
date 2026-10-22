@@ -1,8 +1,8 @@
 {
-  "ios": "1.0.7",
+  "ios": "1.0.8",
   "android": "1.0.7",
-  "messageTr": "İlk bölüm kutlaması, kısa uygulama turu ve hikâye düzeltmeleri",
-  "messageEn": "First chapter celebration, a quick app tour and story fixes",
+  "messageTr": "Kısa ilk bölüm, daha kolay yıldızlar ve arkadaşına öner",
+  "messageEn": "A shorter first chapter, easier stars and recommend to a friend",
   "storeIos": "https://apps.apple.com/app/id6814996367",
   "storeAndroid": "https://play.google.com/store/apps/details?id=com.b2avargames.trivocab"
 }
