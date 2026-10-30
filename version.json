@@ -1,8 +1,8 @@
 {
-  "ios": "1.0.8",
-  "android": "1.0.7",
-  "messageTr": "Kısa ilk bölüm, daha kolay yıldızlar ve arkadaşına öner",
-  "messageEn": "A shorter first chapter, easier stars and recommend to a friend",
+  "ios": "1.0.9",
+  "android": "1.0.9",
+  "messageTr": "Daha rahat başlangıç: yeni seviye testi ve kaldığın yerden devam",
+  "messageEn": "A gentler start: improved level test and pick up where you left off",
   "storeIos": "https://apps.apple.com/app/id6814996367",
   "storeAndroid": "https://play.google.com/store/apps/details?id=com.b2avargames.trivocab"
 }
