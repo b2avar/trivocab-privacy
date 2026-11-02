@@ -1,8 +1,8 @@
 {
-  "ios": "1.0.9",
+  "ios": "1.0.10",
   "android": "1.0.9",
-  "messageTr": "Daha rahat başlangıç: yeni seviye testi ve kaldığın yerden devam",
-  "messageEn": "A gentler start: improved level test and pick up where you left off",
+  "messageTr": "Trivocab Plus geldi: erken kullanıcımız olarak senin için ömür boyu ücretsiz",
+  "messageEn": "Trivocab Plus is here, and it's free forever for you as an early user",
   "storeIos": "https://apps.apple.com/app/id6814996367",
   "storeAndroid": "https://play.google.com/store/apps/details?id=com.b2avargames.trivocab"
 }
